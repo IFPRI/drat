@@ -49,7 +49,7 @@ Imports: devtools (>= 2.4.5), pak (>= 0.5.1), utils, rlang (>= 1.1.0), usethis (
              1.1.2), lintr (>= 3.0.2), drat (>= 0.2.3.1), git2r (>= 0.32.0)
 Suggests: gamstransfer (>= 1.12), DOORMAT (>= 3.4.0)
 License: GPL (>= 3)
-MD5sum: 586c7b6138ba82f558c04fb6355d4b54
+MD5sum: f314f9fcbf7ad776d28fe5bae208fdd8
 NeedsCompilation: no
 
 Package: drat
