@@ -83,7 +83,7 @@ Version: 2.0.0
 Imports: devtools (>= 2.4.5.9000)
 Suggests: knitr (>= 1.42), rmarkdown (>= 2.21)
 License: GPL (>= 3)
-MD5sum: 29a7825297eef24e317731343a8c18ab
+MD5sum: 7c715b6d28ec44d22ab1625a5bc04156
 NeedsCompilation: no
 
 Package: reportIMPACT
