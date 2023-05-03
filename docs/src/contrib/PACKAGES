@@ -78,6 +78,14 @@ License: GPL (>= 3)
 MD5sum: 24fde8deb4130b79fee2a0e34561f300
 NeedsCompilation: no
 
+Package: KIRAN
+Version: 2.0.0
+Imports: devtools (>= 2.4.5.9000)
+Suggests: knitr (>= 1.42), rmarkdown (>= 2.21)
+License: GPL (>= 3)
+MD5sum: 29a7825297eef24e317731343a8c18ab
+NeedsCompilation: no
+
 Package: reportIMPACT
 Version: 4.0.0
 Imports: data.table (>= 1.14.8), magclass (>= 6.8.5), dplyr (>= 1.1.1), DOORMAT (>= 3.1.0), forcats (>= 1.0.0), readxl
