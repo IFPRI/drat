@@ -61,6 +61,15 @@ License: GPL (>= 3)
 MD5sum: 00c42906df698c18b8bc75b7b3c1cf3b
 NeedsCompilation: no
 
+Package: DOORMAT
+Version: 3.6.0
+Imports: devtools (>= 2.4.5.9000), pak (>= 0.5.1), utils, rlang (>= 1.1.0), usethis (>= 2.1.6), readxl (>= 1.4.2), dplyr
+             (>= 1.1.2), lintr (>= 3.0.2), drat (>= 0.2.3.1), gert (>= 1.9.2)
+Suggests: gamstransfer (>= 1.12), DOORMAT (>= 3.5.0)
+License: GPL (>= 3)
+MD5sum: 6766e99b5a8bb507e258dd0cbb17e01c
+NeedsCompilation: no
+
 Package: drat
 Version: 0.1.8
 Depends: R (>= 3.2.0)
