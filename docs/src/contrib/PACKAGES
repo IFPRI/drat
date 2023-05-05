@@ -138,3 +138,12 @@ Suggests: reportIMPACT (>= 4.2.0)
 License: GPL (>= 3)
 MD5sum: f8fce340f0bfe6490f568391a32a57d0
 NeedsCompilation: no
+
+Package: reportIMPACT
+Version: 4.4.0
+Imports: data.table (>= 1.14.8), magclass (>= 6.9.0), dplyr (>= 1.1.2), DOORMAT (>= 3.7.0), forcats (>= 1.0.0), readxl
+             (>= 1.4.2)
+Suggests: reportIMPACT (>= 4.3.0)
+License: GPL (>= 3)
+MD5sum: cc127b24a83a655bb71e450a4b5a1b47
+NeedsCompilation: no
