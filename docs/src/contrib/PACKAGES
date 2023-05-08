@@ -16,8 +16,8 @@ NeedsCompilation: no
 
 Package: DOORMAT
 Version: 3.1.0
-Imports: devtools (>= 2.4.5), pak (>= 0.4.0), utils, rlang (>= 1.1.0), usethis (>= 2.1.6), readxl (>= 1.4.2), dplyr (>= 1.1.1), lintr
-               (>= 3.0.2), drat (>= 0.2.3.1)
+Imports: devtools (>= 2.4.5), pak (>= 0.4.0), utils, rlang (>= 1.1.0), usethis (>= 2.1.6), readxl (>= 1.4.2), dplyr (>= 1.1.1), lintr (>=
+               3.0.2), drat (>= 0.2.3.1)
 Suggests: gamstransfer (>= 1.12), DOORMAT (>= 3.1.0)
 License: GPL (>= 3)
 MD5sum: 738f9be3c7a60369ea7fa5c73f710997
@@ -25,8 +25,8 @@ NeedsCompilation: no
 
 Package: DOORMAT
 Version: 3.2.0
-Imports: devtools (>= 2.4.5), pak (>= 0.4.0), utils, rlang (>= 1.1.0), usethis (>= 2.1.6), readxl (>= 1.4.2), dplyr (>= 1.1.1), lintr
-               (>= 3.0.2), drat (>= 0.2.3.1)
+Imports: devtools (>= 2.4.5), pak (>= 0.4.0), utils, rlang (>= 1.1.0), usethis (>= 2.1.6), readxl (>= 1.4.2), dplyr (>= 1.1.1), lintr (>=
+               3.0.2), drat (>= 0.2.3.1)
 Suggests: gamstransfer (>= 1.12), DOORMAT (>= 3.1.0)
 License: GPL (>= 3)
 MD5sum: 23f9091d6c4886dae97912cc49104fdb
@@ -34,8 +34,8 @@ NeedsCompilation: no
 
 Package: DOORMAT
 Version: 3.3.0
-Imports: devtools (>= 2.4.5), pak (>= 0.5.1), utils, rlang (>= 1.1.0), usethis (>= 2.1.6), readxl (>= 1.4.2), dplyr (>= 1.1.2), lintr
-               (>= 3.0.2), drat (>= 0.2.3.1)
+Imports: devtools (>= 2.4.5), pak (>= 0.5.1), utils, rlang (>= 1.1.0), usethis (>= 2.1.6), readxl (>= 1.4.2), dplyr (>= 1.1.2), lintr (>=
+               3.0.2), drat (>= 0.2.3.1)
 Suggests: gamstransfer (>= 1.12), DOORMAT (>= 3.2.0)
 License: GPL (>= 3)
 MD5sum: 67b80e31edd9acc5d57b1a3a981fd627
@@ -43,8 +43,8 @@ NeedsCompilation: no
 
 Package: DOORMAT
 Version: 3.4.0
-Imports: devtools (>= 2.4.5), pak (>= 0.5.1), utils, rlang (>= 1.1.0), usethis (>= 2.1.6), readxl (>= 1.4.2), dplyr (>= 1.1.2), lintr
-               (>= 3.0.2), drat (>= 0.2.3.1), git2r (>= 0.32.0)
+Imports: devtools (>= 2.4.5), pak (>= 0.5.1), utils, rlang (>= 1.1.0), usethis (>= 2.1.6), readxl (>= 1.4.2), dplyr (>= 1.1.2), lintr (>=
+               3.0.2), drat (>= 0.2.3.1), git2r (>= 0.32.0)
 Suggests: gamstransfer (>= 1.12), DOORMAT (>= 3.4.0)
 License: GPL (>= 3)
 MD5sum: 5205b7b407fb6ebd808e91278b2b2587
@@ -52,8 +52,8 @@ NeedsCompilation: no
 
 Package: DOORMAT
 Version: 3.5.0
-Imports: devtools (>= 2.4.5), pak (>= 0.5.1), utils, rlang (>= 1.1.0), usethis (>= 2.1.6), readxl (>= 1.4.2), dplyr (>= 1.1.2), lintr
-               (>= 3.0.2), drat (>= 0.2.3.1), git2r (>= 0.32.0)
+Imports: devtools (>= 2.4.5), pak (>= 0.5.1), utils, rlang (>= 1.1.0), usethis (>= 2.1.6), readxl (>= 1.4.2), dplyr (>= 1.1.2), lintr (>=
+               3.0.2), drat (>= 0.2.3.1), git2r (>= 0.32.0)
 Suggests: gamstransfer (>= 1.12), DOORMAT (>= 3.4.0)
 License: GPL (>= 3)
 MD5sum: 00c42906df698c18b8bc75b7b3c1cf3b
@@ -171,4 +171,12 @@ Imports: data.table (>= 1.14.8), magclass (>= 6.9.0), dplyr (>= 1.1.2), DOORMAT 
 Suggests: reportIMPACT (>= 4.7.0)
 License: GPL (>= 3)
 MD5sum: ea8cb8f1bb48615d6fa75e2a2e5d9446
+NeedsCompilation: no
+
+Package: reportIMPACT
+Version: 4.9.0
+Imports: data.table (>= 1.14.8), magclass (>= 6.9.0), dplyr (>= 1.1.2), DOORMAT (>= 3.7.0), forcats (>= 1.0.0), readxl (>= 1.4.2)
+Suggests: reportIMPACT (>= 4.8.0)
+License: GPL (>= 3)
+MD5sum: 4ae04f0316756cf79e45d159e5bde2c6
 NeedsCompilation: no
