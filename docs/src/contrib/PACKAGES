@@ -14,6 +14,14 @@ License: GPL (>= 3)
 MD5sum: 1f7f1778eb89e84cd052465681dd8351
 NeedsCompilation: no
 
+Package: ARIA
+Version: 2.4.3
+Imports: shiny (>= 1.7.4), shinythemes (>= 1.2.0), dplyr (>= 1.1.2), ggplot2 (>= 3.4.2), utils, DT (>= 0.27), reportIMPACT (>= 4.9.0)
+Suggests: knitr (>= 1.42), rmarkdown (>= 2.21), ARIA (>= 2.4.2)
+License: GPL (>= 3)
+MD5sum: e46786b5a5f22777041c2ec31601b5e4
+NeedsCompilation: no
+
 Package: DOORMAT
 Version: 3.1.0
 Imports: devtools (>= 2.4.5), pak (>= 0.4.0), utils, rlang (>= 1.1.0), usethis (>= 2.1.6), readxl (>= 1.4.2), dplyr (>= 1.1.1), lintr (>=
