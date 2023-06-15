@@ -53,6 +53,13 @@ License: GPL (>= 3)
 MD5sum: 4924e92d8800e7b3cf616b29cd2775a0
 NeedsCompilation: no
 
+Package: COLUMNIST
+Version: 1.1.0
+Imports: ncdf4 (>= 1.21), terra (>= 1.7.29)
+License: GPL (>= 3)
+MD5sum: ea22334fbd5b3d9527f40efb31681ff2
+NeedsCompilation: no
+
 Package: DOORMAT
 Version: 3.1.0
 Imports: devtools (>= 2.4.5), pak (>= 0.4.0), utils, rlang (>= 1.1.0), usethis (>= 2.1.6), readxl (>=
