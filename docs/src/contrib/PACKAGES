@@ -203,6 +203,13 @@ License: GPL (>= 3)
 MD5sum: 83332e7d98759c6cafbf074685dae682
 NeedsCompilation: no
 
+Package: GTR
+Version: 1.5.0
+Imports: stringr (>= 1.5.0), utils
+License: GPL (>= 3)
+MD5sum: 850ba3e4b3593f12d811ee06393d1baa
+NeedsCompilation: no
+
 Package: KIRAN
 Version: 1.0.0
 Imports: devtools (>= 2.4.5)
