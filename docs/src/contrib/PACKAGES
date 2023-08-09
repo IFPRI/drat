@@ -297,6 +297,15 @@ MD5sum: 88c7f7b05d8cc703038a03850c6798d1
 NeedsCompilation: no
 
 Package: reportIMPACT
+Version: 4.13.0
+Imports: data.table (>= 1.14.8), magclass (>= 6.11.0), dplyr (>= 1.1.2), DOORMAT (>= 3.9.0),
+           forcats (>= 1.0.0), readxl (>= 1.4.2)
+Suggests: reportIMPACT (>= 4.9.0)
+License: GPL (>= 3)
+MD5sum: e38786b8751813061f8bfbc161f0275d
+NeedsCompilation: no
+
+Package: reportIMPACT
 Version: 4.2.0
 Imports: data.table (>= 1.14.8), magclass (>= 6.9.0), dplyr (>= 1.1.2), DOORMAT (>= 3.4.0), forcats
            (>= 1.0.0), readxl (>= 1.4.2)
