@@ -226,6 +226,15 @@ License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
 
+Package: GFSir
+Version: 2.2.0
+Imports: readxl (>= 1.4.2), DOORMAT (>= 3.12.0), dplyr (>= 1.1.2), tidyr (>= 1.3.0), ggplot2
+          (>= 3.4.2)
+Suggests: knitr, rmarkdown
+License: GPL (>= 3)
+MD5sum: a21ab1e2f9eda092780c6c9bd1cfbe58
+NeedsCompilation: no
+
 Package: GTR
 Version: 1.0.0
 Imports: stringr (>= 1.5.0), utils
