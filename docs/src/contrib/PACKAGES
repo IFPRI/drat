@@ -111,6 +111,17 @@ MD5sum: 14b5492091bf04c5e0771f5e1200b750
 NeedsCompilation: no
 
 Package: DOORMAT
+Version: 3.13.2
+Depends: R (>= 4.2.2)
+Imports: pak (>= 0.6.0), utils, rlang (>= 1.1.2), usethis (>= 2.2.2), readxl (>= 1.4.3),
+          dplyr (>= 1.1.3), lintr (>= 3.1.1), drat (>= 0.2.4.1), gert (>= 2.0.0), devtools
+          (>= 2.4.5.9000)
+Suggests: gamstransfer (>= 1.12), DOORMAT (>= 3.7.3)
+License: GPL (>= 3)
+MD5sum: 344cb23460a3192d2ccd0500ef2f38a4
+NeedsCompilation: no
+
+Package: DOORMAT
 Version: 3.2.0
 Imports: devtools (>= 2.4.5), pak (>= 0.4.0), utils, rlang (>= 1.1.0), usethis (>= 2.1.6),
           readxl (>= 1.4.2), dplyr (>= 1.1.1), lintr (>= 3.0.2), drat (>= 0.2.3.1)
