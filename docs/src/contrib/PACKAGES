@@ -285,6 +285,14 @@ License: GPL (>= 3)
 MD5sum: 38bce20650c10f210eff8aceff92b743
 NeedsCompilation: no
 
+Package: EFFORT
+Version: 1.2.3
+Imports: dplyr (>= 1.1.3), openxlsx2 (>= 1.4), janitor (>= 2.2.0), Hmisc (>= 5.1.1), collapse (>= 2.0.10), tidyr (>= 1.3.0),
+              DOORMAT (>= 3.14.0), utils
+License: GPL (>= 3)
+MD5sum: d2c4265dd4523754f43995fe078a94b0
+NeedsCompilation: no
+
 Package: GFSir
 Version: 2.2.0
 Imports: readxl (>= 1.4.2), DOORMAT (>= 3.12.0), dplyr (>= 1.1.2), tidyr (>= 1.3.0), ggplot2 (>= 3.4.2)
