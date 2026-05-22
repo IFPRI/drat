@@ -443,6 +443,16 @@ License: MIT + file LICENSE
 MD5sum: 0206e6d988eff527abe2d019169c072a
 NeedsCompilation: no
 
+Package: impactpw
+Version: 1.1.0
+Depends: R (>= 2.10)
+Imports: data.table (>= 1.14.8), dplyr (>= 1.1.4), tidyr (>= 1.3.1), collapse (>= 2.0.10), openxlsx2 (>= 1.9),
+            gamstransfer (>= 3.0.3), janitor (>= 2.2.0), DOORMAT (>= 3.14.1)
+Suggests: testthat (>= 3.0.0)
+License: MIT + file LICENSE
+MD5sum: f28bf63e2486c3fdd4a39a4d34096843
+NeedsCompilation: no
+
 Package: KIRAN
 Version: 1.0.0
 Imports: devtools (>= 2.4.5)
